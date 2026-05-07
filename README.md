@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Olá, eu sou **Pedro**
 
-<!--
-**PedroIAM/PedroIAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+🚀 Aspirante a Engenheiro de IA & Data Engineer  
+💡 Transformando dados em soluções inteligentes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias & Linguagens
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+## 🏆 Certificados
+
+🎖 **Python para Análise de Dados – Udemy**  
+🎖 **SQL Avançado – Udemy**  
+🎖 **Introdução a Big Data – Udemy**  
+
+*(Coloque os certificados que você tiver, ou substitua pelos seus próprios)*
+
+---
+
+## 📊 Estatísticas
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroIAM&theme=github_dark)
+---
+
+## 📫 Conecte-se comigo
+
+🔗 LinkedIn:https://www.linkedin.com/in/pedro-augusto-9197ba3ab/?skipRedirect=true
+📧 Email: pedrosilva356aug@gmail.com
+
+---
+
+## 📌 Sobre mim
+
+Sou apaixonado por dados, automação e inteligência artificial.  
+Estou em constante evolução e construindo projetos que impactam.
+
+🚀 Sempre aberto a colaborações e novos desafios!
