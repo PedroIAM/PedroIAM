@@ -22,7 +22,6 @@
 🎖 **SQL Avançado – Udemy**  
 🎖 **Introdução a Big Data – Udemy**  
 
-*(Coloque os certificados que você tiver, ou substitua pelos seus próprios)*
 
 ---
 
