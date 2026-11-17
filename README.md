@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou **Pedro**
 
 🎓 Estudante de Ciência da Computação  
-🚀 Aspirante a Engenheiro de IA & Data Engineer  
+🚀  Data Engineer  
 💡 Transformando dados em soluções inteligentes
 
 ---
